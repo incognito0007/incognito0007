@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Working of AI**
 
-- 👨‍💻 All of my projects are available at [https://incognito0007.github.io/ankit-portfolio/](https://incognito0007.github.io/ankit-portfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://incognito0007.github.io/ankit-portfolio/)
 
 - 📫 How to reach me **aanandaankit@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1APBLgmhSWzLfIRz9P8s-Ic-N8o4T3Nn1VKOAB1ndmJc/edit?usp=sharing](https://docs.google.com/document/d/1APBLgmhSWzLfIRz9P8s-Ic-N8o4T3Nn1VKOAB1ndmJc/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1APBLgmhSWzLfIRz9P8s-Ic-N8o4T3Nn1VKOAB1ndmJc/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
